@@ -12,7 +12,7 @@ def hello_world():
     <!DOCTYPE html>
 <html>
 <head>
-  <title>Welcome to the Gemini Summit Hackathon!</title>
+  <title>Welcome to the Gemini Summit!</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -52,7 +52,7 @@ def hello_world():
 <body>
   <div class="container">
     <h1 class="gradient-text">Welcome to the Gemini Summit</h1>
-	<h2 class="gradient-text">Build with Gemini Hackathon</h2>
+	<h2 class="gradient-text">Build with Gemini Pro 1.5</h2>
     <p>Get ready to innovate, collaborate, and build the future!</p>
   </div>
 </body>
