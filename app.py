@@ -51,9 +51,9 @@ def hello_world():
 </head>
 <body>
   <div class="container">
-    <h1 class="gradient-text">Welcome to the Gemini Summit</h1>
+    <h1 class="gradient-text">Welcome to Infosys Gemini Summit</h1>
 	<h2 class="gradient-text">Build with Gemini Pro 1.5</h2>
-    <p>Get ready to innovate, collaborate, and build the future!</p>
+    <p>Get ready to accelerate human progress!</p>
   </div>
 </body>
 </html>
