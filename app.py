@@ -12,7 +12,7 @@ def hello_world():
     <!DOCTYPE html>
 <html>
 <head>
-  <title>Welcome to the Gemini Summit!</title>
+  <title>Welcome to Infosys Gemini Summit!</title>
   <style>
     body {
       font-family: Arial, sans-serif;
